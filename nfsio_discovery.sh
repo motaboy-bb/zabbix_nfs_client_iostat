@@ -13,6 +13,8 @@
 #
 # ===========================================================
 
+# 2021-12-12: 1010data info: Implemented by Piotr Wydymus based on Jira ticket: https://1010data.atlassian.net/browse/NOC-56
+
 array="$(findmnt -lo target -n -t nfs,nfs4)"
 
 comma=""

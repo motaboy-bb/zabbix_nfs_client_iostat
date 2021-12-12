@@ -4,13 +4,13 @@
     <date>2018-01-12T10:28:24Z</date>
     <groups>
         <group>
-            <name>СЭП Шаблоны</name>
+            <name>NFS Template</name>
         </group>
     </groups>
     <templates>
         <template>
-            <template>Template NFS io</template>
-            <name>Шаблон NFS io</name>
+            <template>Template NFS IO monitoring</template>
+            <name>NFS IO monitoring</name>
             <description>Author: Dmitry Malinin&#13;
 E.mail: dmitry@malinin.com&#13;
 Blog: http://zabbix.guru&#13;
@@ -18,7 +18,7 @@ Blog: http://zabbix.guru&#13;
 nfsiostat statistics for NFS client</description>
             <groups>
                 <group>
-                    <name>СЭП Шаблоны</name>
+                    <name>NFS Template</name>
                 </group>
             </groups>
             <applications>

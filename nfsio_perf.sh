@@ -37,6 +37,8 @@
 #
 # ===========================================================
 
+# 2021-12-12: 1010data info: Implemented by Piotr Wydymus based on Jira ticket: https://1010data.atlassian.net/browse/NOC-56
+
 NFS_MOUNT=$1
 NFS_IO=$2
 
