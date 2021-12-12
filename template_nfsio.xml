@@ -9,7 +9,7 @@
     </groups>
     <templates>
         <template>
-            <template>Template NFS IO monitoring</template>
+            <template>Template NFS io</template>
             <name>NFS IO monitoring</name>
             <description>Author: Dmitry Malinin&#13;
 E.mail: dmitry@malinin.com&#13;
