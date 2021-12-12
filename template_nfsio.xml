@@ -4,7 +4,7 @@
     <date>2018-01-12T10:28:24Z</date>
     <groups>
         <group>
-            <name>NFS Template</name>
+            <name>СЭП Шаблоны</name>
         </group>
     </groups>
     <templates>
@@ -18,7 +18,7 @@ Blog: http://zabbix.guru&#13;
 nfsiostat statistics for NFS client</description>
             <groups>
                 <group>
-                    <name>NFS Template</name>
+                    <name>СЭП Шаблоны</name>
                 </group>
             </groups>
             <applications>
